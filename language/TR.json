@@ -2,9 +2,9 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "English",
     "LANGCODE": "en",
-    "AUTHOR": "AsenaDev",
+    "AUTHOR": "𝕸𝖗.𝕯𝖊𝖈𝖈𝖆𝖑",
     "STRINGS": {
-        "_asena": {
+        "𝕸𝖗.𝕯𝖊𝖈𝖈𝖆𝖑": {
             "DESC": "Sohbet botunu yönetmek için.\n.tüm grubu etkinleştirmek için sohbette lydia\nBir kişiye yanıt verin veya o kişiyi etkinleştirmek için bahsedin..",
             "L_ACTIVATED": "```Lydia {} için etkinleştirildi\nDurdurmak için .lydia stop```",
             "L_DEACTIVATED": "```Lydia {} için devredışı bırakıldı```",
