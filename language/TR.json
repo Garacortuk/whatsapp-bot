@@ -39,7 +39,7 @@
             "PROMOTE_DESC": "Herhangi bir kişiyi admin yapar.\nBir mesajı yanıtlayın veya bir kişiden bahsedin.",
             "DEMOTE_DESC": "Herhangi bir adminin yetkisini düşürür.\nBir mesajı yanıtlayın veya bir kişiden bahsedin.",
             "ALREADY_NOT_ADMIN": "```Gerizekalı adam admin değil nasıl yetkisini alayım ?```",
-            "DEMOTED": "```@{} yetkin düşürüldü kusura bak canın!```",
+            "DEMOTED": "```@{} yetkin düşürüldü kusura bak canım!```",
             "MUTE_DESC": "Grubu sohbetini kapatır. Yalnızca adminler mesaj gönderebilir..\n.mute : sonsuza kadar susturar\n.mute 10 : 10 dakika sessize almak için",
             "MUTED": "```çok kafa siktiniz biraz susun amk!```",
             "TMUTE": "```Grup bu sebepten kapatıldı```",
